@@ -7,11 +7,13 @@
 ---
 
 ## 🚀 Stacks & Skills
+
 <p align="left">
   <img src="URL_CSHARP" width="60"/>
   <img src="URL_C" width="60"/>
   <img src="URL_PYTHON" width="60"/>
 </p>
+
 
 - 🐍 Python (condicionais, loops, funções, regex)
 - 💻 C e C# (estrutura de dados, lógica de programação)
