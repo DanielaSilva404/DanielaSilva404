@@ -13,7 +13,7 @@
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
 - 🇧🇷 Português (native)  
 - 🇺🇸 Inglês (intermediate, in learning)
