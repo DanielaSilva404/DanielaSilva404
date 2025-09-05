@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Stacks & Skills
+## 🚀 Programming Languages
 
 - 🐍 Python (conditionals, loops, functions, regex)
 - 💻 C e C# (data structures, programming logic)
