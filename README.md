@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩🏻‍💻 Daniela Silva  
+**Estagiária de TI | Python Developer**
 
-<!--
-**DanielaSilva404/DanielaSilva404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Estudante de Sistemas de Informação (2º semestre)*  
+📍 Santos, SP — Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stacks & Skills
+
+- 🐍 Python (condicionais, loops, funções, regex)
+- 💻 C e C# (estrutura de dados, lógica de programação)
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português (nativo)  
+- 🇺🇸 Inglês (intermediário, em aprendizado)
+
+---
+
+## 📫 Contato
+
+- ✉️ danielasilvaa427@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniela-da-silva-880b04293/)
+
+---
