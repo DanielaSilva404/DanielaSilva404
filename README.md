@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Stacks & Skills
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/69bc6bd7-faca-46bd-af9e-92ede9d308e5" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/764b7969-1a25-4f0f-9103-4ca9581b849f" />
 
 - 🐍 Python (condicionais, loops, funções, regex)
 - 💻 C e C# (estrutura de dados, lógica de programação)
