@@ -8,8 +8,9 @@
 
 ## 🚀 Programming Languages
 
-- 🐍 Python (conditionals, loops, functions, regex)
-- 💻 C e C# (data structures, programming logic)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
