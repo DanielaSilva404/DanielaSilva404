@@ -9,7 +9,7 @@
 ## 🚀 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,csharp,c,azure,vscode" />
 </p>
 
 ---
