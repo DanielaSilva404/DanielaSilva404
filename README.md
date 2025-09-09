@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Programming Languages
+## 🚀 Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,c,azure,vscode" />
