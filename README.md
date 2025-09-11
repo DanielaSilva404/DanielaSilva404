@@ -8,9 +8,8 @@
 
 ## 🚀 Stacks
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,c,azure,vscode" />
-</p>
+![Skills](https://skillicons.dev/icons?i=python,c,cs,vscode,html,css,javascript)
+
 
 ---
 
