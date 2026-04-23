@@ -8,8 +8,9 @@
 
 ## 🚀 Stacks
 
-![My Skills](https://skillicons.dev/icons?i=python,c,html,css,javascript)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,kali" />
+</p>
 ---
 
 ## 🌍 Languages
