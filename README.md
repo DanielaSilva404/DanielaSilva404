@@ -8,7 +8,7 @@
 
 ## 🚀 Stacks
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,kali,nmap,metasploit" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,kali" />
 
 
 ## 🌍 Languages
