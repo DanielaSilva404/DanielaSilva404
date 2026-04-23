@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Daniela Silva  
-**IT Intern| Python Developer**
+**IT Intern| Python Developer| Cybersecurity**
 
 🎓 *Information Systems student*  
 📍 Santos, SP — Brazil  
@@ -8,8 +8,7 @@
 
 ## 🚀 Stacks
 
-![Skills](https://skillicons.dev/icons?i=python,c,cs,vscode,html,css,javascript)
-
+![My Skills](https://skillicons.dev/icons?i=python,c,html,css,javascript)
 
 ---
 
