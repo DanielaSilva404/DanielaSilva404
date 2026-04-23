@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,kali" />
 </p>
----
 
 ## 🌍 Languages
 
