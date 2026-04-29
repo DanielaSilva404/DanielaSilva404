@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Daniela Silva  
-**IT Intern| Python Developer| Cyber Security**
+**IT Intern| Python Developer| Cybersecurity**
 
 🎓 *Information Systems student*  
 📍 Santos, SP — Brazil  
